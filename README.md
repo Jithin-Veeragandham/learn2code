@@ -1,6 +1,6 @@
 # [Learn2Code](https://learn2code-jithinveeragandham.streamlit.app/)
 
-Learn2Code is a platform designed to assist users in learning coding. It leverages the power of generative AI to dynamically generate coding concepts and questions, providing an interactive and adaptive learning experience.
+Learn2Code [link[(https://learn2code-jithinveeragandham.streamlit.app/) is a platform designed to assist users in learning coding. It leverages the power of generative AI to dynamically generate coding concepts and questions, providing an interactive and adaptive learning experience.
 
 ## Features
 
