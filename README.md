@@ -31,10 +31,3 @@ The platform uses a quantized model to ensure faster inference times and compati
 
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
----
-
-You can further customize this README by adding sections like "Acknowledgments", "Built With", etc., based on your project's requirements.
